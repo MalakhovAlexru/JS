@@ -8,3 +8,8 @@
 5. [HW_5](https://github.com/MalakhovAlexru/JS/tree/master/JS_HW/HW_5 "HW_5")
 6. [HW_6](https://github.com/MalakhovAlexru/JS/tree/master/JS_HW/HW_6 "HW_6")
 7. [HW_7](https://github.com/MalakhovAlexru/JS/tree/master/JS_HW/HW_7 "HW_7")
+
+
+### Examplse from Books and other open source
+
+1. [Meadowlark](https://github.com/MalakhovAlexru/JS/tree/master/Books/Ethan%20Braun-s%20book/Web-development "Meadowlark")
